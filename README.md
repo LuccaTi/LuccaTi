@@ -1,5 +1,5 @@
 # Lucca Tirelli
-Oi, eu sou o Lucca, meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar aprender algo novo.
+Oi, eu sou o Lucca, meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar aprender novidades.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucca-tirelli-9619b61a3/)
