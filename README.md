@@ -16,4 +16,5 @@ Oi, eu sou o Lucca, meu foco é estudar bastante sobre tecnologias, aperfeiçoar
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaTi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)
 ## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuccaTi/trilha-net-fundamentos-desafio.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuccaTi/trilha-net-fundamentos-desafio.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=desafio_ecommerce_SQL )](https://github.com/LuccaTi/desafio_ecommerce_SQL.git)
