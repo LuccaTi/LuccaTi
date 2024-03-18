@@ -16,13 +16,6 @@ Oi, eu sou o Lucca, meu foco é estudar bastante sobre tecnologias, aperfeiçoar
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaTi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)
 
-## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=trilha_python_dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuccaTi/trilha_python_dio.git)
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=desafio_oficina_SQL&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuccaTi/desafio_oficina_SQL.git)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaTi&repo=projeto_estacionamento_.net&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuccaTi/projeto_estacionamento_.net.git)
 
 
 
