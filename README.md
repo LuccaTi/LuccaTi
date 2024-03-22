@@ -1,4 +1,6 @@
 # Lucca Tirelli
+Hi there 👋
+
 Oi, eu sou o Lucca, meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
 
 ## Conecte-se comigo
