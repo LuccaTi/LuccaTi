@@ -11,15 +11,15 @@ Oi, eu sou o Lucca,
 </p>
 
 <p align="left">
-  :computer: Linguagens: Desenvolvendo com Python, Java e SQL.
+  🖥️: Linguagens: Desenvolvendo com Python, Java e SQL.
 </p>
 
 <p align="left">
-  :wrench: Ferramentas: Visual Studio Code, MySQL Workbench e IntelliJ.
+  🛠️: Ferramentas: Visual Studio Code, MySQL Workbench e IntelliJ.
 </p>
 
 <p align="left">
-  :grin: Se quiser se conectar comigo: ⤵️
+  😁 Se quiser se conectar comigo: ⤵️
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-tirelli-9619b61a3/)
