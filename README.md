@@ -15,7 +15,7 @@ Oi, eu sou o Lucca,
 </p>
 
 <p align="left">
-  :wrench: Ferramentas: Uso muito o Visual Studio Code, MySQL Workbench e IntelliJ.
+  :wrench: Ferramentas: Visual Studio Code, MySQL Workbench e IntelliJ.
 </p>
 
 <p align="left">
