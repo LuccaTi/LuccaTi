@@ -24,9 +24,9 @@ Oi, eu sou o Lucca,
 
 <p align="left">
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-tirelli-9619b61a3" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/lucca-tirelli-9619b61a3](https://www.linkedin.com/in/lucca-tirelli-9619b61a3/)" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luccatirelli" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[https://www.instagram.com/luccatirelli](https://www.instagram.com/luccatirelli/)" alt="Instagram"/></a>
 </p>
 
 ### Habilidades
