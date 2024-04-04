@@ -11,11 +11,11 @@ Oi, eu sou o Lucca,
 </p>
 
 <p align="left">
-  🖥️: Linguagens: Desenvolvendo com Python, Java e SQL.
+  🖥️ Linguagens: Desenvolvendo com Python, Java e SQL.
 </p>
 
 <p align="left">
-  🛠️: Ferramentas: Visual Studio Code, MySQL Workbench e IntelliJ.
+  🛠️ Ferramentas: Visual Studio Code, MySQL Workbench e IntelliJ.
 </p>
 
 <p align="left">
