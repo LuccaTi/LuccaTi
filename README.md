@@ -7,7 +7,7 @@ Oi, eu sou o Lucca,
 
 meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
   
-🖥️ Linguagens: Desenvolvendo com Java, Python, e consultando dados com SQL.
+🖥️ Linguagens: Desenvolvendo com Java, Python e usando scripts SQL.
 
 🛠️ Ferramentas: VS Code, MySQL Workbench, PyCharm e IntelliJ.
 
