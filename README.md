@@ -7,9 +7,9 @@ Oi, eu sou o Lucca,
 
 meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
   
-🖥️ Linguagens: Desenvolvendo com Java, Python e criando scripts SQL.
+🖥️ Linguagens: C#, Java, Python e scripts SQL.
 
-🛠️ Ferramentas: VS Code, MySQL Workbench, PyCharm e IntelliJ.
+🛠️ Ferramentas: Visual Studio, VS Code, MySQL Workbench.
 
 😁 Se quiser se conectar comigo: ⤵️
 
@@ -18,11 +18,12 @@ meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e bus
 </p>
 
 ### Habilidades:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  
 
 
 
