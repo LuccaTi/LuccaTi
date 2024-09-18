@@ -7,7 +7,7 @@ Oi, eu sou o Lucca,
 
 meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
   
-🖥️ Linguagens: C#, Java e scripts SQL.
+🖥️ Linguagens: C# e scripts SQL.
 
 🛠️ Ferramentas: Visual Studio, VS Code, MySQL Workbench.
 
@@ -22,7 +22,6 @@ meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e bus
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   
 
 
