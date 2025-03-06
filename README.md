@@ -13,9 +13,8 @@ meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e bus
 
 😁 Se quiser se conectar comigo: ⤵️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-tirelli/){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccatirelli/){:target="_blank"}
-</p>
+<a href="https://www.linkedin.com/in/lucca-tirelli/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/luccatirelli/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Habilidades:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
