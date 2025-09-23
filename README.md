@@ -7,19 +7,18 @@ Oi, eu sou o Lucca,
 
 meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
   
-🖥️ Linguagens: C# e scripts SQL.
+🖥️ Linguagens: C# e SQL.
 
-🛠️ Ferramentas: Visual Studio, VS Code, SSMS.
+🛠️ Ferramentas: Visual Studio, VS Code, DBeaver.
 
 😁 Se quiser se conectar comigo: ⤵️
 
 <a href="https://www.linkedin.com/in/lucca-tirelli/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/luccatirelli/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Habilidades:
 <p>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-B59A30?style=for-the-badge&logo=Microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
