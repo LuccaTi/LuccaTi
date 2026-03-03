@@ -9,7 +9,7 @@ meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e bus
   
 🖥️ Stack: .NET, SQL, HTML, CSS, JavaScript.
 
-🛠️ Ferramentas: Visual Studio, VS Code, DBeaver.
+🛠️ Ferramentas: Visual Studio, VS Code, DevTools, SQL Server.
 
 😁 Se quiser se conectar comigo: ⤵️
 
