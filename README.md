@@ -7,7 +7,7 @@ Oi, eu sou o Lucca,
 
 meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
   
-🖥️ Linguagens: C# e SQL.
+🖥️ Stack: C#, SQL, HTML, CSS, JavaScript.
 
 🛠️ Ferramentas: Visual Studio, VS Code, DBeaver.
 
