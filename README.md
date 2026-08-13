@@ -5,11 +5,11 @@ Oi, eu sou o Lucca,
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
-meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e buscar novidades.
+meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e criar soluções.
   
-🖥️ Stack: .NET, SQL, HTML, CSS, JavaScript.
+🖥️ Stack: .NET, SQL, HTML, CSS, JavaScript, React.
 
-🛠️ Ferramentas: Visual Studio, VS Code, Copilot, DevTools, SQL Server.
+🛠️ Ferramentas: Visual Studio, VS Code, Copilot, DevTools, SQL Server, Docker.
 
 😁 Se quiser se conectar comigo: ⤵️
 
@@ -25,4 +25,6 @@ meu foco é estudar bastante sobre tecnologias, aperfeiçoar o que já sei e bus
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
